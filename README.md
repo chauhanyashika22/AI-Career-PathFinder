@@ -2,6 +2,8 @@
 > **From where you are to where you want to be.**
 > *AI-Powered Personalized Learning and Career Recommendation SaaS Platform.*
 
+<img width="2848" height="1658" alt="Screenshot 2026-08-29 at 11 20 29 AM" src="https://github.com/user-attachments/assets/5815037b-bcb8-444e-9c4d-8bb0629c2b91" />
+
 ---
 
 ## 1. Problem Statement
@@ -27,12 +29,21 @@ It analyzes a learner's target career ambition, experience level, verified skill
 - Input goals naturally (e.g., *"I want to become a Java backend developer building microservices"*).
 - Intelligent domain parser extracts career tracks, timeline, and recommended skill paths.
 
+- <img width="2196" height="1376" alt="Screenshot 2026-08-29 at 11 29 58 AM" src="https://github.com/user-attachments/assets/c8830474-792f-4cae-b913-6acfc9605465" />
+
+
 ### 📊 Scientific Skill Gap Analysis
 - Computes `Required Proficiency - Current Proficiency` across career skill graphs.
 - Prioritizes gaps into **HIGH**, **MEDIUM**, and **ACQUIRED** categories with explicit prerequisite chains and *"Why it matters"* rationales.
 
+- <img width="2738" height="1508" alt="Screenshot 2026-08-29 at 11 23 03 AM" src="https://github.com/user-attachments/assets/a54af5c3-fdf4-4efe-94b2-092d095a48a7" />
+
+
 ### 🗺️ Dynamic Personalized Learning Roadmap
 - Multi-milestone timeline with expandable learning topics, curated resources, hands-on portfolio projects, and checkpoint quizzes.
+
+- <img width="2724" height="1490" alt="Screenshot 2026-08-29 at 11 24 33 AM" src="https://github.com/user-attachments/assets/2843068d-c905-4943-abe8-a3ca925e94a8" />
+
 - **Explainable Recommendations**: Every item features a *"Why this recommendation?"* button explaining its specific role in the learner's path.
 
 ### ⚡ Adaptive Learning Engine (Continuous Feedback Loop)
